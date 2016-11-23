@@ -1,1 +1,3 @@
 This is the repository for my alpha_blog.
+
+Rails Server: rails s -b $IP -p $PORT
